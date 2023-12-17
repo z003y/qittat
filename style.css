@@ -1,0 +1,12 @@
+#result {
+  padding: 1%;
+}
+#result span:hover {
+  color: red;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#target {
+  padding: 0.1%;
+}
